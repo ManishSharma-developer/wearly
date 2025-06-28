@@ -1,0 +1,9 @@
+com\myorganisation\wearly\repository\UserRepository.class
+com\myorganisation\wearly\controller\ServerController.class
+com\myorganisation\wearly\dto\UserResponseDTO.class
+com\myorganisation\wearly\WearlyApplication.class
+com\myorganisation\wearly\service\UserService.class
+com\myorganisation\wearly\service\UserServiceImpl.class
+com\myorganisation\wearly\dto\UserRequestDTO.class
+com\myorganisation\wearly\model\User.class
+com\myorganisation\wearly\model\enums\Gender.class
