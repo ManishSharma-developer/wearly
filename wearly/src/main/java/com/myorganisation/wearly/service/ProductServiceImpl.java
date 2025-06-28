@@ -34,6 +34,6 @@ public class ProductServiceImpl implements ProductService {
         productResponseDTO.setBrand(product.getBrand());
         productResponseDTO.setCategory(product.getCategory());
 
-        return productResponseDTO;
+        return productResponseDTO;;
     }
 }
