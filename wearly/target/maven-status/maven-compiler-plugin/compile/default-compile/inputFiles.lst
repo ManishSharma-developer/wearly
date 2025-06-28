@@ -1,0 +1,9 @@
+D:\javaProjects\wearly\src\main\java\com\myorganisation\wearly\controller\ServerController.java
+D:\javaProjects\wearly\src\main\java\com\myorganisation\wearly\dto\UserRequestDTO.java
+D:\javaProjects\wearly\src\main\java\com\myorganisation\wearly\dto\UserResponseDTO.java
+D:\javaProjects\wearly\src\main\java\com\myorganisation\wearly\model\enums\Gender.java
+D:\javaProjects\wearly\src\main\java\com\myorganisation\wearly\model\User.java
+D:\javaProjects\wearly\src\main\java\com\myorganisation\wearly\repository\UserRepository.java
+D:\javaProjects\wearly\src\main\java\com\myorganisation\wearly\service\UserService.java
+D:\javaProjects\wearly\src\main\java\com\myorganisation\wearly\service\UserServiceImpl.java
+D:\javaProjects\wearly\src\main\java\com\myorganisation\wearly\WearlyApplication.java
